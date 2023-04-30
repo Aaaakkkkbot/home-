@@ -22,7 +22,7 @@ import os
 import sys
 import time
 
-import zeldris
+import spamwatch
 import telegram.ext as tg
 from redis import StrictRedis
 from telethon import TelegramClient
